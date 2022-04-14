@@ -1,7 +1,7 @@
 <div class="example-wrapper">
     <div>
         <div>
-            <h2> List of products for an Ecommerce Store</h2>
+            <h2>All products</h2>
         </div>
 
         <div>
