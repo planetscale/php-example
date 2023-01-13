@@ -2,9 +2,7 @@
 
 This sample application demonstrates how to connect to a PlanetScale MySQL database from a PHP application
 
-![Sample app homepage](https://docs.planetscale.com/img/docs/php-sample-app-homepage.png)
-
-For the full tutorial, see the [PHP PlanetScale documentation](https://docs.planetscale.com/tutorials/connect-php-app).
+For the full tutorial, see the [PHP PlanetScale documentation](https://planetscale.com/docs/tutorials/connect-php-app).
 
 ## Prerequisites
 
@@ -43,7 +41,7 @@ View the application at [http://localhost:8000](http://localhost:8000).
 
 ## Connect to the PHP app
 
-Make sure you have your PlanetScale database set up. You can find detailed instructions on setting up in the [PlanetScale PHP documentation](https://docs.planetscale.com/tutorials/connect-php-app).
+Make sure you have your PlanetScale database set up. You can find detailed instructions on setting up in the [PlanetScale PHP documentation](https://planetscale.com/docs/tutorials/connect-php-app).
 
 ### Connect with username and password
 
