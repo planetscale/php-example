@@ -58,7 +58,7 @@ PASSWORD=<PASSWORD>
 MYSQL_ATTR_SSL_CA=
 ```
 
-5. For `MYSQL_ATTR_SSL_CA`, use our [CA root configuration doc](/concepts/secure-connections#ca-root-configuration) to find the correct value for your system. For example, if you're on MacOS, it would be:
+5. For `MYSQL_ATTR_SSL_CA`, use our [CA root configuration doc](https://docs.planetscale.com/concepts/secure-connections#ca-root-configuration) to find the correct value for your system. For example, if you're on MacOS, it would be:
 
 ```
 MYSQL_ATTR_SSL_CA=/etc/ssl/cert.pem
