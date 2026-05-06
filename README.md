@@ -1,5 +1,7 @@
 # Learn how to integrate PlanetScale with a sample PHP application
 
+> **Note:** This tutorial targets PlanetScale Vitess/MySQL and the PHP/MySQL connection flow below. PlanetScale also offers managed PostgreSQL; use Postgres client extensions and connection settings for those databases. For more information and examples, see the [PlanetScale Postgres documentation](https://planetscale.com/docs/postgres).
+
 This sample application demonstrates how to connect to a PlanetScale MySQL database from a PHP application
 
 For the full tutorial, see the [PHP PlanetScale documentation](https://planetscale.com/docs/tutorials/connect-php-app).
